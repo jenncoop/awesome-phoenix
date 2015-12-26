@@ -9,8 +9,6 @@ A curated list of amazingly awesome [Phoenix](www.phoenixframework.org) resource
 - [Phoenix Talk](https://groups.google.com/forum/#!forum/phoenix-talk) - For asking questions and discussion
 - [Phoenix Core](https://groups.google.com/forum/#!forum/phoenix-core) - For core announcements/updates etc.
 
-###Newsletters
-
 ## Articles
 ### Performance
 - [Phoenix Showdown](https://github.com/mroth/phoenix-showdown)
