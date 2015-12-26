@@ -18,6 +18,7 @@ A curated list of amazingly awesome [Phoenix](www.phoenixframework.org) resource
 ## Learning
 - [ExCasts](https://excasts.com/episodes/tagged/any/phoenix)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/phoenix-framework)
+
 ###Tutorials
 - [Phoenix with Elm](http://www.cultivatehq.com/posts/phoenix-elm-1/)
 
