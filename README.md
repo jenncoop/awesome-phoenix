@@ -10,8 +10,7 @@ A curated list of amazingly awesome [Phoenix](http://www.phoenixframework.org) r
 - [Phoenix Core](https://groups.google.com/forum/#!forum/phoenix-core) - For core announcements/updates etc.
 
 ## Articles
-### Performance
-#### Showdowns
+### Performance Showdowns
 - [Elixir vs. Ruby Showdown - Phoenix vs. Rails](http://www.littlelines.com/blog/2014/07/08/elixir-vs-ruby-showdown-phoenix-vs-rails/)
 - [Phoenix Showdown](https://github.com/mroth/phoenix-showdown) - Benchmarking Phoenix vs. Rails vs. Sinatra vs. Express vs. Martini...
 
