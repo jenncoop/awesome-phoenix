@@ -11,13 +11,15 @@ A curated list of amazingly awesome [Phoenix](http://www.phoenixframework.org) r
 
 ## Articles
 ### Performance
-- [Phoenix Showdown](https://github.com/mroth/phoenix-showdown)
+#### Comparisons
+- [Elixir vs. Ruby Showdown - Phoenix vs. Rails](http://www.littlelines.com/blog/2014/07/08/elixir-vs-ruby-showdown-phoenix-vs-rails/)
+- [Phoenix Showdown](https://github.com/mroth/phoenix-showdown) - Benchmarking Phoenix vs. Rails vs. Sinatra vs. Express vs. Martini...
 
 ## Learning
 - [ExCasts](https://excasts.com/episodes/tagged/any/phoenix)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/phoenix-framework)
 
-###Tutorials
+### Tutorials
 - [Phoenix with Elm](http://www.cultivatehq.com/posts/phoenix-elm-1/)
 
 ## Experiments
