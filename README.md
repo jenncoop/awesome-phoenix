@@ -30,6 +30,10 @@ A curated list of amazingly awesome [Phoenix](http://www.phoenixframework.org) r
 - [Phoenix with Elm](http://www.cultivatehq.com/posts/phoenix-elm-1/)
 - [Building a Phoenix API](https://medium.com/@luizvarela1/building-a-phoenix-api-d27902a1450a#.8zpe3cfzw) - Short tutorial to build a simple RESTful API with Phoenix.
 
+
+## Podcasts
+- [Elixir Fountain](http://elixirfountain.com/) - News and Interviews from the Elixir community. Hosted by Johnny Winn.
+
 ## Experiments
 - [Phoenix Flux React](https://github.com/fxg42/phoenix-flux-react)
 
